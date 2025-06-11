@@ -2,7 +2,7 @@
 I have done this project with my team-mate as part of hacathon at holbox.
 We have done the frontend with React.js and Backend with Some Machine Learning Model Fro resume Axtracting etc...
 
-#How To Run The Repo
+# How To Run The Repo
 clone repo 
 git clone https://github.com/0mptll/Agentic-AI-Hiring-Assistant-for-Efficient-Talent-Acquisition.git
 
