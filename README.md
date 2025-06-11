@@ -1,1 +1,3 @@
 # Agentic-AI-Hiring-Assistant
+I have done this project with my team-mate as part of hacathon at holbox.
+We have done the frontend with React.js and Backend with Some Machine Learning Model Fro resume Axtracting etc...
